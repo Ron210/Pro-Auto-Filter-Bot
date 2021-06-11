@@ -6,28 +6,17 @@ class Translation(object):
     
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
 
-<b>Am Just A Pro Auto Filter Bot....😉</b>
+<b>ഞാൻ @moviesvilla90 എന്ന ഗ്രൂപ്പിൽ മൂവീസ് കൊടുക്കുന്ന ബോട്ട് ആണ് 
+ 
+എന്നെ മറ്റു ഗ്രൂപ്പിൽ ഒന്നും ഉപയോഗിക്കാൻ കഴിയുകയില്ല...😉</b>
 
-<b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
-
-<b>Watch the video below to build an Pro Autofilter bot like me...</b>
-
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
-
-<b>Press /help to know about available commands🤪</b>"""    
+"""    
     
     HELP_TEXT = """
-<b>😉How To Use Me!😉?</b>
+<b>എനിക്ക് ഹെൽപ് ചെയ്യാൻ  മനസ്സില്ല. പോയി പണി നോക്🤪..</b>
 
-<i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
-</i>
+
 
     
-    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
-    
-<b>➥ 😎Creator</b> : <b>@AlbertEinstein_TG</b> 
-
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/MRK-YT/Pro-Auto-Filter-Bot">💥Click Me</a></b>
+    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>മനസ്സിലാ പറയാൻ</b>
 """
